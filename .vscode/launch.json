@@ -11,7 +11,9 @@
       "program": "${workspaceFolder}/unbabel_cli.py",
       "args": [
         "--input-file",
-        "sample.txt"
+        "sample.txt",
+        // "--clients-report",
+        // "--languages-report",
       ],
       "console": "integratedTerminal"
     }
